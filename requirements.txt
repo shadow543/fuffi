@@ -1,0 +1,7 @@
+colorama
+requests
+google
+pwn
+urllib.request
+urllib.error
+time
